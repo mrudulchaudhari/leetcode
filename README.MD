@@ -1,0 +1,20 @@
+### Hello, I'm Mrudul Chaudhari. I have made this repo to upload the answers to the questions that I solve on leetcode.
+#### Language I code in mostly - Java
+#### Other languages touched - MySQL, JavaScript, Python
+
+#### Questions solved of topic - Array, String, Database, Linked Lists & few more
+
+#### Learning LL and stack currently
+
+#### This is a new repo, will add code with time, although for solutions you can check my leetcode profile.
+
+
+### Total: 76
+
+|  Easy  | Medium | Hard |
+|:------:|:------:|:----:|
+|   60   |   15   |  1   | 
+
+| Question | Solution | Difficulty |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|:----------:|
+| [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/array/TwoSum.java) | Easy |
