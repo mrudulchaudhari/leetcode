@@ -18,3 +18,4 @@
 | Question | Solution | Difficulty |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|:----------:|
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/array/TwoSum.java) | Easy |
+| [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/string/LongestCommonPrefix.java) | Easy |
