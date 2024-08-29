@@ -21,3 +21,4 @@
 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/math/PalindromeNumber.java) | Easy |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/string/LongestCommonPrefix.java) | Easy |
 | [22. Generate Parantheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/string/GenerateParentheses.java) | Medium |
+| [26. Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/array/RemoveDuplicatesfromSortedArray.java) | Easy |
