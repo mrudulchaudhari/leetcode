@@ -9,11 +9,11 @@
 #### This is a new repo, will add code with time, although for solutions you can check my leetcode profile.
 
 
-### Total: 76
+### Total: 79
 
 |  Easy  | Medium | Hard |
 |:------:|:------:|:----:|
-|   60   |   15   |  1   | 
+|   62   |   16   |  1   | 
 
 | Question | Solution | Difficulty |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|:----------:|
@@ -21,5 +21,6 @@
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/string/StringToInteger(atoi).java) | Medium |
 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/math/PalindromeNumber.java) | Easy |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/string/LongestCommonPrefix.java) | Easy |
+| [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/string/LetterCombinationsOfAPhoneNumber.java) | Medium |
 | [22. Generate Parantheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/string/GenerateParentheses.java) | Medium |
 | [26. Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/array/RemoveDuplicatesfromSortedArray.java) | Easy |
