@@ -24,4 +24,5 @@
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/string/LetterCombinationsOfAPhoneNumber.java) | Medium |
 | [22. Generate Parantheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/string/GenerateParentheses.java) | Medium |
 | [26. Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/array/RemoveDuplicatesfromSortedArray.java) | Easy |
+| [26. Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/array/RemoveDuplicatesfromSortedArray.java) | Easy |
 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/math/Pow(x%2Cn).java) | Medium |
