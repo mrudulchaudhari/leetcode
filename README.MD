@@ -25,4 +25,4 @@
 | [22. Generate Parantheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/string/GenerateParentheses.java) | Medium |
 | [26. Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/array/RemoveDuplicatesfromSortedArray.java) | Easy |
 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/math/Pow(x%2Cn).java) | Medium |
-| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/math/Pow(x%2Cn).java) | Medium |
+| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/mrudulchaudhari/leetcode/blob/main/src/string/MaximumSubarray.java) | Medium |
